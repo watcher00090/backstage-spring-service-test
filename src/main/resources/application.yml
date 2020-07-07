@@ -1,0 +1,6 @@
+spring:
+  main:
+    banner-mode: off
+
+email: james00090@gmail.com
+thread-pool: 10
